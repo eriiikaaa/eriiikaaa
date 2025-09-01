@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 👩‍💻 **Web Designer | Web Developer | SEO Specialist**  
 
-✨ 5+ years of experience turning ideas into digital experiences that work. I create websites that look stunning, run smoothly, and get found.  
-My focus is always a balance of **design, development, and visibility**.  
+✨ 5+ years of experience turning ideas into digital experiences that work.  
 ---
 
 ## 🚀 What I Do
