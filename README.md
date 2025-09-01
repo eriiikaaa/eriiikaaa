@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 👩‍💻 **Web Designer | Web Developer | SEO Specialist**  
 
 ✨ 5+ years of experience turning ideas into digital experiences that work.  
+I create websites that look stunning, run smoothly, and get found.  
+My focus is always a balance of **design, development, and visibility**.  
+
 ---
 
 ## 🚀 What I Do
@@ -28,9 +31,9 @@ Here are some ideas to get you started:
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind, Next.js
-- **CMS & Builders:** WordPress, Elementor, Beaver Builder
-- **SEO Tools:** Google Search Console, Ahrefs, SEMrush and many more 
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind, Next.js  
+- **CMS & Builders:** WordPress, Elementor, Beaver Builder  
+- **SEO Tools:** Google Search Console, Ahrefs, SEMrush  
 - **Other Skills:** UX/UI design, performance optimization, content strategy  
 
 ---
@@ -43,12 +46,11 @@ Here are some ideas to get you started:
 ---
 
 ## 📫 Let's Connect
-- 💼 [Portfolio Website](erikagurung.com)  
+- 💼 [Portfolio Website](https://erikagurung.com)  
 - 📧 [Email Me](mailto:erika9r9@gmail.com)  
 <!-- - 🐦 [Twitter](#)  
 - 💻 [LinkedIn](#)   -->
 
 ---
 
-✨ *🍓 I code better when I have strawberries nearby.*  
-
+⚡ **Fun Fact:** 🍓 I code better when I have strawberries nearby.  
